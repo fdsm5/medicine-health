@@ -2,7 +2,7 @@
 医疗健康研究讨论群
 
 我创建了一个公用github账号:
-  - 账号：fdsm5_github@126.com
+  - 账号：fdsm5_github@126.com
   - 密码：fdsm5_github
 
 备注：
