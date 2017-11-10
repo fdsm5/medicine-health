@@ -5,6 +5,10 @@
   - 账号：fdsm5_github@126.com
   - 密码：fdsm5_github
 
+关于github简单使用，可参阅：
+* [github协作流程简介](https://guides.github.com/introduction/flow/)
+* [github使用简介](https://guides.github.com/activities/hello-world/)
+
 备注：
   - 不用账号也可以查阅和下载，但是上传是不行的。
   - 大家不嫌麻烦的话，可以用自己的邮箱注册一个github账号，这样以后协作也比较方便。
